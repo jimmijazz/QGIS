@@ -1,0 +1,534 @@
+1,Albanvale,City of Brimbank,Western,5237,41,Region
+2,Albion,City of Brimbank,Western,4322,53,Region
+3,Ardeer,City of Brimbank,Western,2838,44,Region
+4,Brooklyn - Brimbank,City of Brimbank,Western,#N/A,#N/A,Region
+5,Cairnlea,City of Brimbank,Western,8837,54,Region
+6,Calder Park,City of Brimbank,Western,#N/A,#N/A,Region
+7,Deer Park,City of Brimbank,Western,16246,49,Region
+8,Delahey,City of Brimbank,Western,8439,39,Region
+9,Derrimut,City of Brimbank,Western,5996,34,Region
+10,Kealba,City of Brimbank,Western,3173,43,Region
+11,Keilor Downs,City of Brimbank,Western,10347,42,Region
+12,Keilor Lodge,City of Brimbank,Western,1753,57,Region
+13,Keilor North,City of Brimbank,Western,#N/A,#N/A,Region
+14,Keilor Park,City of Brimbank,Western,2546,57,Region
+15,Kings Park - Brimbank,City of Brimbank,Western,#N/A,#N/A,Region
+16,St Albans - Brimbank,City of Brimbank,Western,#N/A,#N/A,Region
+17,Sunshine,City of Brimbank,Western,8849,71,Region
+18,Sunshine North,City of Brimbank,Western,10659,56,Region
+19,Sunshine West,City of Brimbank,Western,16759,49,Region
+20,Sydenham - Brimbank,City of Brimbank,Western,#N/A,#N/A,Region
+21,Taylors Lakes,City of Brimbank,Western,16094,49,Region
+22,Altona,City of Hobsons Bay,Western,9916,63,Region
+23,Altona Meadows,City of Hobsons Bay,Western,18721,43,Region
+24,Altona North,City of Hobsons Bay,Western,11386,60,Region
+25,Laverton,City of Hobsons Bay,Western,4074,50,Region
+26,Newport - Hobsons Bay,City of Hobsons Bay,Western,#N/A,#N/A,Region
+27,Seabrook,City of Hobsons Bay,Western,4961,43,Region
+28,Seaholme,City of Hobsons Bay,Western,1849,57,Region
+29,South Kingsville,City of Hobsons Bay,Western,1829,59,Region
+30,Spotswood,City of Hobsons Bay,Western,2347,66,Region
+31,Williamstown,City of Hobsons Bay,Western,13183,71,Region
+32,Williamstown North,City of Hobsons Bay,Western,1543,61,Region
+33,Braybrook,City of Maribyrnong,Western,8190,65,Region
+34,Footscray,City of Maribyrnong,Western,13203,78,Region
+35,Kingsville,City of Maribyrnong,Western,3525,70,Region
+36,Maidstone,City of Maribyrnong,Western,7768,62,Region
+37,Maribyrnong,City of Maribyrnong,Western,10135,70,Region
+38,Seddon,City of Maribyrnong,Western,4860,80,Region
+39,Tottenham,City of Maribyrnong,Western,#N/A,#N/A,Region
+40,West Footscray,City of Maribyrnong,Western,10215,64,Region
+41,Yarraville,City of Maribyrnong,Western,13811,77,Region
+42,Brookfield,City of Melton,Western,#N/A,#N/A,Region
+43,Burnside,City of Melton,Western,4393,43,Region
+44,Burnside Heights,City of Melton,Western,5008,43,Region
+45,Caroline Springs,City of Melton,Western,20397,43,Region
+46,Exford,City of Melton,Western,#N/A,#N/A,Region
+47,Eynesbury,City of Melton,Western,#N/A,#N/A,Region
+48,Hillside,City of Melton,Western,16315,39,Region
+49,Kurunjang,City of Melton,Western,#N/A,#N/A,Region
+50,Melton,City of Melton,Western,#N/A,#N/A,Region
+51,Melton South,City of Melton,Western,#N/A,#N/A,Region
+52,Melton West,City of Melton,Western,#N/A,#N/A,Region
+53,Mount Cottrell,City of Melton,Western,#N/A,#N/A,Region
+54,Parwan,City of Melton,Western,#N/A,#N/A,Region
+55,Plumpton - Melton,City of Melton,Western,#N/A,#N/A,Region
+56,Ravenhall,City of Melton,Western,911,15,Region
+57,Rockbank,City of Melton,Western,#N/A,#N/A,Region
+58,Taylors Hill,City of Melton,Western,11804,39,Region
+59,Toolern Vale,City of Melton,Western,#N/A,#N/A,Region
+60,Truganina,City of Melton,Western,8971,20,Region
+61,Cocoroc,City of Wyndham,Western,#N/A,#N/A,Region
+62,Hoppers Crossing,City of Wyndham,Western,37646,41,Region
+63,Laverton North,City of Wyndham,Western,#N/A,#N/A,Region
+64,Little River,City of Wyndham,Western,#N/A,#N/A,Region
+65,Mambourin,City of Wyndham,Western,#N/A,#N/A,Region
+66,Point Cook,City of Wyndham,Western,32431,44,Region
+67,Quandong,City of Wyndham,Western,#N/A,#N/A,Region
+68,Tarneit,City of Wyndham,Western,21429,18,Region
+69,Werribee,City of Wyndham,Western,37777,40,Region
+70,Werribee South,City of Wyndham,Western,#N/A,#N/A,Region
+71,Williams Landing,City of Wyndham,Western,3225,31,Region
+72,Wyndham Vale,City of Wyndham,Western,#N/A,#N/A,Region
+73,Beaumaris,City of Bayside,Southeastern,12783,64,Region
+74,Black Rock,City of Bayside,Southeastern,5937,59,Region
+75,Brighton,City of Bayside,Southeastern,21267,75,Region
+76,Brighton East,City of Bayside,Southeastern,15807,63,Region
+77,Cheltenham - Bayside,City of Bayside,Southeastern,#N/A,#N/A,Region
+78,Gardenvale,City of Bayside,Southeastern,958,73,Region
+79,Hampton,City of Bayside,Southeastern,12459,69,Region
+80,Hampton East,City of Bayside,Southeastern,4403,67,Region
+81,Highett,City of Bayside,Southeastern,10281,73,Region
+82,Sandringham - Bayside,City of Bayside,Southeastern,#N/A,#N/A,Region
+83,Berwick,City of Casey,Southeastern,44690,43,Region
+84,Blind Bight,City of Casey,Southeastern,#N/A,#N/A,Region
+85,Botanic Ridge,City of Casey,Southeastern,1724,13,Region
+86,Cannons Creek,City of Casey,Southeastern,#N/A,#N/A,Region
+87,Clyde - Casey,City of Casey,Southeastern,#N/A,#N/A,Region
+88,Clyde North,City of Casey,Southeastern,#N/A,#N/A,Region
+89,Cranbourne,City of Casey,Southeastern,18620,43,Region
+90,Cranbourne East,City of Casey,Southeastern,8220,28,Region
+91,Cranbourne North,City of Casey,Southeastern,14569,33,Region
+92,Cranbourne South,City of Casey,Southeastern,#N/A,#N/A,Region
+93,Cranbourne West,City of Casey,Southeastern,8733,28,Region
+94,Devon Meadows,City of Casey,Southeastern,#N/A,#N/A,Region
+95,Doveton,City of Casey,Southeastern,8433,53,Region
+96,Endeavour Hills,City of Casey,Southeastern,24571,37,Region
+97,Eumemmerring,City of Casey,Southeastern,1877,60,Region
+98,Hallam,City of Casey,Southeastern,10185,44,Region
+99,Hampton Park,City of Casey,Southeastern,23754,43,Region
+100,Harkaway,City of Casey,Southeastern,#N/A,#N/A,Region
+101,Junction Village,City of Casey,Southeastern,1146,16,Region
+102,Lynbrook,City of Casey,Southeastern,6751,34,Region
+103,Lysterfield South,City of Casey,Southeastern,925,13,Region
+104,Narre Warren,City of Casey,Southeastern,25886,40,Region
+105,Narre Warren North,City of Casey,Southeastern,5864,18,Region
+106,Narre Warren South,City of Casey,Southeastern,28557,35,Region
+107,Pearcedale,City of Casey,Southeastern,#N/A,#N/A,Region
+108,Tooradin,City of Casey,Southeastern,#N/A,#N/A,Region
+109,Warneet,City of Casey,Southeastern,#N/A,#N/A,Region
+110,Carrum Downs,City of Frankston,Southeastern,19122,53,Region
+111,Frankston,City of Frankston,Southeastern,35035,55,Region
+112,Frankston North,City of Frankston,Southeastern,5615,50,Region
+113,Frankston South,City of Frankston,Southeastern,17610,38,Region
+114,Langwarrin,City of Frankston,Southeastern,21342,38,Region
+115,Langwarrin South,City of Frankston,Southeastern,1134,12,Region
+116,Sandhurst,City of Frankston,Southeastern,3067,19,Region
+117,Seaford,City of Frankston,Southeastern,16049,51,Region
+118,Skye,City of Frankston,Southeastern,7503,44,Region
+119,Bentleigh,City of Glen Eira,Southeastern,14926,75,Region
+120,Bentleigh East,City of Glen Eira,Southeastern,25928,59,Region
+121,Carnegie,City of Glen Eira,Southeastern,16333,75,Region
+122,Caulfield,City of Glen Eira,Southeastern,5159,73,Region
+123,Caulfield East,City of Glen Eira,Southeastern,1238,75,Region
+124,Caulfield North,City of Glen Eira,Southeastern,14597,67,Region
+125,Caulfield South,City of Glen Eira,Southeastern,11292,70,Region
+126,Elsternwick,City of Glen Eira,Southeastern,9772,83,Region
+127,Glen Huntly,City of Glen Eira,Southeastern,4672,76,Region
+128,McKinnon,City of Glen Eira,Southeastern,5559,73,Region
+129,Murrumbeena,City of Glen Eira,Southeastern,8573,71,Region
+130,Ormond,City of Glen Eira,Southeastern,7707,72,Region
+131,Bangholme,City of Greater Dandenong,Southeastern,801,25,Region
+132,Dandenong,City of Greater Dandenong,Southeastern,24925,64,Region
+133,Dandenong North,City of Greater Dandenong,Southeastern,21933,43,Region
+134,Dandenong South,City of Greater Dandenong,Southeastern,#N/A,#N/A,Region
+135,Keysborough,City of Greater Dandenong,Southeastern,19894,49,Region
+136,Lyndhurst,City of Greater Dandenong,Southeastern,4883,19,Region
+137,Noble Park,City of Greater Dandenong,Southeastern,28395,48,Region
+138,Noble Park North,City of Greater Dandenong,Southeastern,7380,49,Region
+139,Springvale,City of Greater Dandenong,Southeastern,19818,66,Region
+140,Springvale South,City of Greater Dandenong,Southeastern,12179,46,Region
+141,Aspendale,City of Kingston,Southeastern,6592,55,Region
+142,Aspendale Gardens,City of Kingston,Southeastern,6581,46,Region
+143,Bonbeach,City of Kingston,Southeastern,5705,58,Region
+144,Braeside,City of Kingston,Southeastern,#N/A,#N/A,Region
+145,Carrum,City of Kingston,Southeastern,3589,54,Region
+146,Chelsea,City of Kingston,Southeastern,7223,66,Region
+147,Chelsea Heights,City of Kingston,Southeastern,5182,53,Region
+148,Clarinda,City of Kingston,Southeastern,7449,50,Region
+149,Clayton South,City of Kingston,Southeastern,11631,53,Region
+150,Dingley Village,City of Kingston,Southeastern,10211,46,Region
+151,Edithvale,City of Kingston,Southeastern,5466,53,Region
+152,Heatherton,City of Kingston,Southeastern,2759,56,Region
+153,Mentone,City of Kingston,Southeastern,11628,68,Region
+154,Moorabbin,City of Kingston,Southeastern,5298,71,Region
+155,Moorabbin Airport,City of Kingston,Southeastern,#N/A,#N/A,Region
+156,Mordialloc,City of Kingston,Southeastern,7530,66,Region
+157,Parkdale - Kingston,City of Kingston,Southeastern,#N/A,#N/A,Region
+158,Patterson Lakes,City of Kingston,Southeastern,7579,46,Region
+159,Waterways,City of Kingston,Southeastern,2158,27,Region
+160,Ashwood,City of Monash,Southeastern,6091,63,Region
+161,Chadstone,City of Monash,Southeastern,7825,66,Region
+162,Clayton,City of Monash,Southeastern,15547,69,Region
+163,Glen Waverley,City of Monash,Southeastern,39227,59,Region
+164,Hughesdale,City of Monash,Southeastern,7062,74,Region
+165,Huntingdale,City of Monash,Southeastern,1782,62,Region
+166,Monash University,City of Monash,Southeastern,#N/A,#N/A,Region
+167,Mount Waverley,City of Monash,Southeastern,32063,62,Region
+168,Mulgrave - Monash,City of Monash,Southeastern,#N/A,#N/A,Region
+169,Notting Hill,City of Monash,Southeastern,2150,60,Region
+170,Oakleigh,City of Monash,Southeastern,7540,73,Region
+171,Oakleigh East,City of Monash,Southeastern,5972,62,Region
+172,Oakleigh South,City of Monash,Southeastern,9126,50,Region
+173,Wheelers Hill,City of Monash,Southeastern,19091,53,Region
+174,Armadale,City of Stonnington,Southeastern,8732,74,Region
+175,Kooyong,City of Stonnington,Southeastern,805,71,Region
+176,Malvern,City of Stonnington,Southeastern,9494,80,Region
+177,Malvern East,City of Stonnington,Southeastern,20028,77,Region
+178,Prahran,City of Stonnington,Southeastern,11171,87,Region
+179,Toorak,City of Stonnington,Southeastern,12832,74,Region
+180,Windsor - Stonnington,City of Stonnington,Southeastern,#N/A,#N/A,Region
+181,Avonsleigh,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+182,Bayles,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+183,Beaconsfield - Cardinia,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+184,Beaconsfield Upper,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+185,Bunyip,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+186,Bunyip North,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+187,Caldermeade,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+188,Cardinia,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+189,Catani,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+190,Clematis,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+191,Cockatoo,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+192,Cora Lynn,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+193,Dalmore,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+194,Dewhurst,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+195,Emerald,Shire of Cardinia,Southeastern,5793,28,Region
+196,Garfield,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+197,Garfield North,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+198,Gembrook,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+199,Guys Hill,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+200,Heath Hill,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+201,Iona,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+202,Koo Wee Rup,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+203,Koo Wee Rup North,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+204,Lang Lang,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+205,Lang Lang East,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+206,Longwarry,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+207,Maryknoll,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+208,Menzies Creek,Shire of Cardinia,Southeastern,646,5,Region
+209,Modella,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+210,Monomeith,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+211,Mount Burnett,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+212,Nangana,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+213,Nar Nar Goon,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+214,Nar Nar Goon North,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+215,Nyora,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+216,Officer,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+217,Officer South,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+218,Pakenham,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+219,Pakenham South,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+220,Pakenham Upper,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+221,Rythdale,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+222,Tonimbuk,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+223,Tooradin North,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+224,Tynong,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+225,Tynong North,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+226,Vervale,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+227,Yannathan,Shire of Cardinia,Southeastern,#N/A,#N/A,Region
+228,Arthurs Seat,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+229,Balnarring,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+230,Balnarring Beach,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+231,Baxter,Shire of Mornington Peninsula,Southeastern,2124,28,Region
+232,Bittern,Shire of Mornington Peninsula,Southeastern,3381,16,Region
+233,Blairgowrie,Shire of Mornington Peninsula,Southeastern,2173,22,Region
+234,Boneo,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+235,Cape Schanck,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+236,Crib Point,Shire of Mornington Peninsula,Southeastern,2831,21,Region
+237,Dromana,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+238,Fingal,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+239,Flinders,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+240,Hastings,Shire of Mornington Peninsula,Southeastern,8267,46,Region
+241,HMAS Cerberus,Shire of Mornington Peninsula,Southeastern,1087,13,Region
+242,Main Ridge,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+243,McCrae,Shire of Mornington Peninsula,Southeastern,2535,33,Region
+244,Merricks,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+245,Merricks Beach,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+246,Merricks North,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+247,Moorooduc,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+248,Mornington,Shire of Mornington Peninsula,Southeastern,22477,54,Region
+249,Mount Eliza,Shire of Mornington Peninsula,Southeastern,17274,32,Region
+250,Mount Martha,Shire of Mornington Peninsula,Southeastern,16857,28,Region
+251,Point Leo,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+252,Portsea,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+253,Red Hill,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+254,Red Hill South,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+255,Rosebud,Shire of Mornington Peninsula,Southeastern,12546,41,Region
+256,Rosebud West,Shire of Mornington Peninsula,Southeastern,4602,36,Region
+257,Rye,Shire of Mornington Peninsula,Southeastern,8153,26,Region
+258,Safety Beach,Shire of Mornington Peninsula,Southeastern,3517,19,Region
+259,Shoreham,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+260,Somers,Shire of Mornington Peninsula,Southeastern,1411,10,Region
+261,Somerville,Shire of Mornington Peninsula,Southeastern,10120,45,Region
+262,Sorrento,Shire of Mornington Peninsula,Southeastern,1439,38,Region
+263,St Andrews Beach,Shire of Mornington Peninsula,Southeastern,853,3,Region
+264,Tootgarook,Shire of Mornington Peninsula,Southeastern,2725,31,Region
+265,Tuerong,Shire of Mornington Peninsula,Southeastern,#N/A,#N/A,Region
+266,Tyabb,Shire of Mornington Peninsula,Southeastern,3001,24,Region
+267,Bellfield,City of Banyule,Northern,1719,70,Region
+268,Briar Hill,City of Banyule,Northern,3072,54,Region
+269,Bundoora,City of Banyule,Northern,25652,52,Region
+270,Eaglemont,City of Banyule,Northern,3915,64,Region
+271,Eltham North,City of Banyule,Northern,6834,41,Region
+272,Greensborough,City of Banyule,Northern,20560,55,Region
+273,Heidelberg,City of Banyule,Northern,5733,64,Region
+274,Heidelberg Heights,City of Banyule,Northern,6410,64,Region
+275,Heidelberg West,City of Banyule,Northern,5335,68,Region
+276,Ivanhoe,City of Banyule,Northern,11038,71,Region
+277,Ivanhoe East,City of Banyule,Northern,3790,64,Region
+278,Lower Plenty,City of Banyule,Northern,3800,54,Region
+279,Macleod,City of Banyule,Northern,9622,55,Region
+280,Montmorency,City of Banyule,Northern,8768,66,Region
+281,Rosanna,City of Banyule,Northern,7892,62,Region
+282,St Helena,City of Banyule,Northern,2828,42,Region
+283,Viewbank,City of Banyule,Northern,6741,39,Region
+284,Watsonia,City of Banyule,Northern,5146,69,Region
+285,Watsonia North,City of Banyule,Northern,3858,44,Region
+286,Yallambie,City of Banyule,Northern,4133,48,Region
+287,Kingsbury,City of Darebin,Northern,3380,59,Region
+288,Northcote,City of Darebin,Northern,22914,82,Region
+289,Preston,City of Darebin,Northern,29893,73,Region
+290,Reservoir,City of Darebin,Northern,47517,60,Region
+291,Thornbury,City of Darebin,Northern,17473,77,Region
+292,Attwood,City of Hume,Northern,3274,37,Region
+293,Broadmeadows,City of Hume,Northern,10549,56,Region
+294,Bulla,City of Hume,Northern,#N/A,#N/A,Region
+295,Campbellfield,City of Hume,Northern,5462,49,Region
+296,Clarkefield,City of Hume,Northern,#N/A,#N/A,Region
+297,Coolaroo,City of Hume,Northern,3266,42,Region
+298,Craigieburn,City of Hume,Northern,32747,39,Region
+299,Dallas,City of Hume,Northern,6497,56,Region
+300,Diggers Rest,City of Hume,Northern,#N/A,#N/A,Region
+301,Gladstone Park,City of Hume,Northern,8328,64,Region
+302,Greenvale,City of Hume,Northern,#N/A,#N/A,Region
+303,Jacana,City of Hume,Northern,1935,62,Region
+304,Kalkallo,City of Hume,Northern,#N/A,#N/A,Region
+305,Keilor,City of Hume,Northern,5742,45,Region
+306,Meadow Heights,City of Hume,Northern,14841,39,Region
+307,Melbourne Airport,City of Hume,Northern,#N/A,#N/A,Region
+308,Mickleham,City of Hume,Northern,#N/A,#N/A,Region
+309,Oaklands Junction,City of Hume,Northern,#N/A,#N/A,Region
+310,Roxburgh Park,City of Hume,Northern,19198,35,Region
+311,Somerton,City of Hume,Northern,#N/A,#N/A,Region
+312,Sunbury,City of Hume,Northern,#N/A,#N/A,Region
+313,Tullamarine,City of Hume,Northern,6280,68,Region
+314,Westmeadows,City of Hume,Northern,5514,47,Region
+315,Wildwood,City of Hume,Northern,#N/A,#N/A,Region
+316,Yuroke,City of Hume,Northern,#N/A,#N/A,Region
+317,Aberfeldie,City of Moonee Valley,Northern,3623,60,Region
+318,Airport West,City of Moonee Valley,Northern,6954,58,Region
+319,Ascot Vale,City of Moonee Valley,Northern,13503,75,Region
+320,Avondale Heights,City of Moonee Valley,Northern,11015,59,Region
+321,Essendon,City of Moonee Valley,Northern,18841,71,Region
+322,Essendon Fields,City of Moonee Valley,Northern,#N/A,#N/A,Region
+323,Essendon North,City of Moonee Valley,Northern,2292,74,Region
+324,Essendon West,City of Moonee Valley,Northern,1405,43,Region
+325,Keilor East,City of Moonee Valley,Northern,13234,55,Region
+326,Moonee Ponds,City of Moonee Valley,Northern,13507,75,Region
+327,Niddrie,City of Moonee Valley,Northern,4851,61,Region
+328,Strathmore,City of Moonee Valley,Northern,8101,69,Region
+329,Strathmore Heights,City of Moonee Valley,Northern,938,58,Region
+330,Travancore,City of Moonee Valley,Northern,1685,73,Region
+331,Brunswick,City of Moreland,Northern,22739,84,Region
+332,Brunswick East,City of Moreland,Northern,8502,83,Region
+333,Brunswick West,City of Moreland,Northern,13171,66,Region
+334,Coburg,City of Moreland,Northern,24996,71,Region
+335,Coburg North,City of Moreland,Northern,6574,62,Region
+336,Fawkner,City of Moreland,Northern,12589,56,Region
+337,Glenroy,City of Moreland,Northern,19671,54,Region
+338,Gowanbrae,City of Moreland,Northern,2752,47,Region
+339,Hadfield,City of Moreland,Northern,5355,51,Region
+340,Oak Park,City of Moreland,Northern,5751,55,Region
+341,Pascoe Vale,City of Moreland,Northern,14871,59,Region
+342,Pascoe Vale South,City of Moreland,Northern,9516,59,Region
+343,Beveridge,City of Whittlesea,Northern,#N/A,#N/A,Region
+344,Donnybrook,City of Whittlesea,Northern,#N/A,#N/A,Region
+345,Eden Park,City of Whittlesea,Northern,#N/A,#N/A,Region
+346,Epping - Whittlesea,City of Whittlesea,Northern,#N/A,#N/A,Region
+347,Humevale,City of Whittlesea,Northern,#N/A,#N/A,Region
+348,Kinglake West,City of Whittlesea,Northern,#N/A,#N/A,Region
+349,Lalor,City of Whittlesea,Northern,19853,50,Region
+350,Mernda,City of Whittlesea,Northern,#N/A,#N/A,Region
+351,Mill Park,City of Whittlesea,Northern,30550,50,Region
+352,South Morang,City of Whittlesea,Northern,20812,31,Region
+353,Thomastown,City of Whittlesea,Northern,20299,48,Region
+354,Whittlesea,City of Whittlesea,Northern,#N/A,#N/A,Region
+355,Wollert,City of Whittlesea,Northern,#N/A,#N/A,Region
+356,Woodstock,City of Whittlesea,Northern,#N/A,#N/A,Region
+357,Yan Yean,City of Whittlesea,Northern,#N/A,#N/A,Region
+358,Bend of Islands,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+359,Christmas Hills,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+360,Cottles Bridge,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+361,Diamond Creek,Shire of Nillumbik,Northern,12838,42,Region
+362,Doreen,Shire of Nillumbik,Northern,10973,29,Region
+363,Eltham,Shire of Nillumbik,Northern,18183,51,Region
+364,Hurstbridge,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+365,Kangaroo Ground,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+366,Kinglake,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+367,North Warrandyte,Shire of Nillumbik,Northern,2693,30,Region
+368,Nutfield,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+369,Panton Hill,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+370,Plenty,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+371,Research,Shire of Nillumbik,Northern,2255,44,Region
+372,Smiths Gully,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+373,St Andrews - Nillumbik,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+374,Strathewen,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+375,Watsons Creek,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+376,Wattle Glen,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+377,Yarrambat,Shire of Nillumbik,Northern,#N/A,#N/A,Region
+378,Carlton - Melbourne,City of Melbourne,Inner City,#N/A,#N/A,Core
+379,Carlton North,City of Melbourne,Inner City,6249,88,Core
+380,Docklands,City of Melbourne,Inner City,5778,86,Core
+381,East Melbourne,City of Melbourne,Inner City,4679,92,Core
+382,Flemington - Melbourne,City of Melbourne,Inner City,#N/A,#N/A,Core
+383,Kensington - Melbourne,City of Melbourne,Inner City,#N/A,#N/A,Core
+384,Melbourne,City of Melbourne,Inner City,28353,93,Core
+385,North Melbourne,City of Melbourne,Inner City,11733,87,Core
+386,Parkville,City of Melbourne,Inner City,6193,79,Core
+387,Port Melbourne,City of Melbourne,Inner City,14520,84,Core
+388,Southbank,City of Melbourne,Inner City,11254,91,Core
+389,South Wharf,City of Melbourne,Inner City,#N/A,#N/A,Core
+390,South Yarra,City of Melbourne,Inner City,19186,92,Core
+391,West Melbourne,City of Melbourne,Inner City,3758,89,Core
+392,Albert Park,City of Port Phillip,Inner City,5989,85,Core
+393,Balaclava,City of Port Phillip,Inner City,5421,88,Core
+394,Elwood,City of Port Phillip,Inner City,14644,84,Core
+395,Middle Park,City of Port Phillip,Inner City,4042,80,Core
+396,Ripponlea,City of Port Phillip,Inner City,1472,87,Core
+397,Southbank,City of Port Phillip,Inner City,11254,91,Core
+398,South Melbourne,City of Port Phillip,Inner City,9318,92,Core
+399,St Kilda,City of Port Phillip,Inner City,17802,93,Core
+400,St Kilda East,City of Port Phillip,Inner City,12555,75,Core
+401,St Kilda West,City of Port Phillip,Inner City,2853,89,Core
+402,Abbotsford - Yarra,City of Yarra,Inner City,#N/A,#N/A,Core
+403,Alphington,City of Yarra,Inner City,4573,69,Core
+404,Burnley,City of Yarra,Inner City,738,70,Core
+405,Clifton Hill,City of Yarra,Inner City,5782,85,Core
+406,Collingwood,City of Yarra,Inner City,6490,92,Core
+407,Cremorne - Yarra,City of Yarra,Inner City,#N/A,#N/A,Core
+408,Fairfield - Yarra,City of Yarra,Inner City,#N/A,#N/A,Core
+409,Fitzroy,City of Yarra,Inner City,9420,96,Core
+410,Fitzroy North,City of Yarra,Inner City,11451,93,Core
+411,Princes Hill,City of Yarra,Inner City,2076,80,Core
+412,Richmond - Yarra,City of Yarra,Inner City,#N/A,#N/A,Core
+413,Ashburton,City of Boroondara,Eastern,7577,68,Region
+414,Balwyn,City of Boroondara,Eastern,12945,72,Region
+415,Balwyn North,City of Boroondara,Eastern,20345,61,Region
+416,Camberwell,City of Boroondara,Eastern,20022,66,Region
+417,Canterbury - Boroondara,City of Boroondara,Eastern,#N/A,#N/A,Region
+418,Deepdene,City of Boroondara,Eastern,2397,75,Region
+419,GlenIris,City of Boroondara,Eastern,#N/A,#N/A,Region
+420,Hawthorn,City of Boroondara,Eastern,21138,85,Region
+421,Hawthorn East,City of Boroondara,Eastern,13113,83,Region
+422,Kew,City of Boroondara,Eastern,23871,71,Region
+423,Kew East,City of Boroondara,Eastern,6026,71,Region
+424,Mont Albert,City of Boroondara,Eastern,4961,69,Region
+425,Mont Albert North,City of Boroondara,Eastern,5080,58,Region
+426,Surrey Hills,City of Boroondara,Eastern,13143,66,Region
+427,Bayswater,City of Knox,Eastern,11263,61,Region
+428,Boronia,City of Knox,Eastern,20830,61,Region
+429,Ferntree Gully,City of Knox,Eastern,25561,56,Region
+430,Knoxfield,City of Knox,Eastern,7109,57,Region
+431,Lysterfield,City of Knox,Eastern,#N/A,#N/A,Region
+432,Rowville,City of Knox,Eastern,34094,47,Region
+433,Scoresby,City of Knox,Eastern,5879,59,Region
+434,The Basin,City of Knox,Eastern,4238,44,Region
+435,Wantirna,City of Knox,Eastern,13766,63,Region
+436,Wantirna South,City of Knox,Eastern,17511,57,Region
+437,Bulleen,City of Manningham,Eastern,10848,59,Region
+438,Doncaster,City of Manningham,Eastern,18372,58,Region
+439,Doncaster East,City of Manningham,Eastern,27069,58,Region
+440,Donvale,City of Manningham,Eastern,11783,43,Region
+441,Nunawading,City of Manningham,Eastern,10925,63,Region
+442,Park Orchards,City of Manningham,Eastern,3727,32,Region
+443,Ringwood North,City of Manningham,Eastern,9665,48,Region
+444,Templestowe,City of Manningham,Eastern,16487,46,Region
+445,Templestowe Lower,City of Manningham,Eastern,13206,49,Region
+446,Warrandyte,City of Manningham,Eastern,5273,40,Region
+447,Warrandyte South,City of Manningham,Eastern,#N/A,#N/A,Region
+448,Wonga Park,City of Manningham,Eastern,#N/A,#N/A,Region
+449,Bayswater North,City of Maroondah,Eastern,8457,48,Region
+450,Croydon - Maroondah,City of Maroondah,Eastern,#N/A,#N/A,Region
+451,Croydon Hills,City of Maroondah,Eastern,5161,43,Region
+452,Croydon North,City of Maroondah,Eastern,7692,38,Region
+453,Croydon South,City of Maroondah,Eastern,4552,49,Region
+454,Heathmont,City of Maroondah,Eastern,9226,55,Region
+455,Kilsyth South,City of Maroondah,Eastern,3051,43,Region
+456,Ringwood,City of Maroondah,Eastern,16044,63,Region
+457,Ringwood East,City of Maroondah,Eastern,9737,57,Region
+458,Ringwood North,City of Maroondah,Eastern,9665,48,Region
+459,Warranwood,City of Maroondah,Eastern,4791,30,Region
+460,Blackburn,City of Whitehorse,Eastern,12789,73,Region
+461,Blackburn North,City of Whitehorse,Eastern,7041,57,Region
+462,Blackburn South,City of Whitehorse,Eastern,10589,63,Region
+463,Box Hill - Whitehorse,City of Whitehorse,Eastern,#N/A,#N/A,Region
+464,Box Hill North,City of Whitehorse,Eastern,11005,57,Region
+465,Box Hill South,City of Whitehorse,Eastern,7695,61,Region
+466,Burwood,City of Whitehorse,Eastern,13172,59,Region
+467,Burwood East,City of Whitehorse,Eastern,10158,59,Region
+468,Forest Hill - Whitehorse,City of Whitehorse,Eastern,#N/A,#N/A,Region
+469,Mitcham,City of Whitehorse,Eastern,14829,64,Region
+470,Vermont,City of Whitehorse,Eastern,9909,56,Region
+471,Vermont South,City of Whitehorse,Eastern,11427,58,Region
+472,Badger Creek,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+473,Beenak,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+474,Belgrave,Shire of Yarra Ranges,Eastern,3972,61,Region
+475,Belgrave Heights,Shire of Yarra Ranges,Eastern,1366,42,Region
+476,Belgrave South,Shire of Yarra Ranges,Eastern,1492,35,Region
+477,Big Pats Creek,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+478,Cambarville,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+479,Chirnside Park,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+480,Chum Creek,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+481,Coldstream,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+482,Dixons Creek,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+483,Don Valley,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+484,Fernshaw,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+485,Ferny Creek,Shire of Yarra Ranges,Eastern,1539,16,Region
+486,Gilderoy,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+487,Gladysdale,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+488,Gruyere,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+489,Healesville,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+490,Hoddles Creek,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+491,Kallista,Shire of Yarra Ranges,Eastern,1555,21,Region
+492,Kalorama,Shire of Yarra Ranges,Eastern,1216,13,Region
+493,Kilsyth,Shire of Yarra Ranges,Eastern,10054,45,Region
+494,Launching Place,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+495,Lilydale,Shire of Yarra Ranges,Eastern,15681,38,Region
+496,Macclesfield,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+497,Matlock,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+498,McMahons Creek,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+499,Millgrove,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+500,Monbulk,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+501,Montrose,Shire of Yarra Ranges,Eastern,6760,29,Region
+502,Mooroolbark,Shire of Yarra Ranges,Eastern,20695,42,Region
+503,Mount Dandenong,Shire of Yarra Ranges,Eastern,1242,33,Region
+504,Mount Evelyn,Shire of Yarra Ranges,Eastern,9353,37,Region
+505,Mount Toolebewong,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+506,Narre Warren East,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+507,Olinda,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+508,Powelltown,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+509,Reefton,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+510,Sassafras,Shire of Yarra Ranges,Eastern,1144,31,Region
+511,Selby,Shire of Yarra Ranges,Eastern,1650,28,Region
+512,Seville,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+513,Seville East,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+514,Sherbrooke,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+515,Silvan,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+516,Steels Creek,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+517,Tarrawarra,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+518,Tecoma,Shire of Yarra Ranges,Eastern,2085,52,Region
+519,The Patch,Shire of Yarra Ranges,Eastern,1040,13,Region
+520,Three Bridges,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+521,Toorongo,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+522,Tremont,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+523,Upper Ferntree Gully,Shire of Yarra Ranges,Eastern,3230,48,Region
+524,Upwey,Shire of Yarra Ranges,Eastern,6978,43,Region
+525,Wandin East,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+526,Wandin North,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+527,Warburton,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+528,Warburton East,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+529,Wesburn,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+530,Woori Yallock,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+531,Yarra Glen,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+532,Yarra Junction,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+533,Yellingbo,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
+534,Yering,Shire of Yarra Ranges,Eastern,#N/A,#N/A,Region
